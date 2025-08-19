@@ -1,4 +1,4 @@
-import { fetchActor } from "@/services/Actor    Service";
+import { fetchActor } from "@/services/ActorService";
 import MovieSection from "./MovieSection";
 import Biography from "./Biography";
 import SeriesSection from "./SeriesSection";
